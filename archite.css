@@ -1,0 +1,69 @@
+.heading{
+    margin: 2px;
+    display: flex;
+    padding:12px;
+    letter-spacing: 2px;
+    align-items: center;
+    background-color: white;
+}
+.cls-main{
+    background-image: url('images/architect.jpg');
+    height: 800px;
+}
+.second{
+       margin-left: 859px;
+}
+
+.heading a {
+    padding:10px;
+}   
+.heading a:hover{
+    background-color: rgb(184, 178, 178);
+}
+.sub-main{
+    position: absolute;
+    top: 72%;
+    left: 46%;
+    color:white;
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+.sub-main span{
+    background-color: black;
+    padding: 10px;
+    opacity: 0.7;
+
+}
+body{
+    font-family: Helvetica, sans-serif;
+}
+.cls-boss{
+    margin: 61px 20px;
+}
+.cls-boss div{
+    border-bottom: 1px solid #80808057;
+    font-size: 22px;
+    padding: 16px;
+}
+.hybe{
+    padding: 10px;
+    display: flex;
+}
+.hybe img {
+    width: 100%;
+    height: 20%;
+    margin: 13px 15px 15px 0px;
+  }
+  .hybe1 img{
+    width: 25%;
+    height: 20%;
+    margin: 13px 15px 15px 0px;
+
+  }
+  .hybe1{
+    padding: 10px;
+    display: flex;
+  }
+.hybe span{
+    position:absolute;
+}
