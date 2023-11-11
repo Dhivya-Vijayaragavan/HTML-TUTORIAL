@@ -1,0 +1,39 @@
+.main{
+    /* position: relative; */
+    
+}
+.main img{
+    width: 100%;
+}
+.two{
+    position: absolute;
+    top: 68%;
+    left:39%;
+    bottom: 20%;
+    color: rgb(252, 248, 248);
+    text-align: center;
+}
+.party{
+    background-image: url(images/coffeeshop.jpg);
+    text-align: center;
+    color: white;
+    padding: 300px 0px 39px 0px;
+    background-repeat: round;
+    font-size: 34px;
+    font-style: italic;
+}
+.cls-nav{
+    display: flex;
+    background: blue;
+    position: fixed;
+    width: 100%;
+}
+.hint{
+    color:rgb(255, 30, 0);
+}
+.cls-nav .hint{
+    color:white;
+}
+.cls-nav:hover{
+    background-color: red;
+}

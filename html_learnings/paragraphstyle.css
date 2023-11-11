@@ -1,0 +1,126 @@
+.main{
+    background-color: orangered;
+    
+}
+.main a{
+    color: white !important;
+}
+.hyper{
+    text-align: center;
+    color: white;
+    padding: 75px 0px;
+}
+.input-group{
+    width: 37%;
+    margin-left: 32%;
+}
+.input-group-text{
+    background-color: rgb(194, 11, 11);
+    border: none;
+    color: white;
+}
+/* *{
+    line-height: 0.9;
+} */
+.upper h4{
+    padding: 15px 0px 20px 0px;
+}
+.upper h6{
+    padding: 20px 0px 20px 0px;
+}
+.upper p{
+    padding: 20px 0px 20px 0px;
+}
+.bi-bar-chart-fill{
+    color: orangered;
+    font-size: 157px;
+    margin: 100px;
+}
+.one{
+    color: gray;
+}
+.bi-globe{
+    font-size: 240px;
+    padding: 10px 15px 30px 15;
+    margin: 0px 10px 10px 57px;
+    color: orangered; 
+}
+.second{
+    background-color:#8080800d;
+    margin-bottom:10px;
+}
+.third{
+    margin: 30px;
+    text-align: center;
+    padding-top: 27px;
+}
+.jk{
+    color: orangered;
+    font-size: 53px;
+}
+.col-4 p{
+    color: gray;
+}
+.head{
+    position: fixed;
+    z-index: 1;
+}
+.four{
+    padding: 50px 10px;
+    background-color: #80808033;
+    text-align: center;
+}
+.navbar{
+    background-color: orangered;
+}
+.five{
+    margin-top: 105px;
+    text-align: center;
+    
+}
+.carousel-indicators{
+    margin-top: 110px;
+    position: unset;
+}
+.carousel-inner{
+    overflow: unset;
+}
+.rm{
+    font-style: italic;
+}
+.carousel-indicators button{
+    border-radius: 65%;
+    width: 3px  !important; 
+    height: 35% !important;
+    background-color: orangered !important;
+    padding: 5px !important;
+}
+.six{
+    text-align: center;
+    margin-top: 60px;
+}
+.card-title{
+    color: white;
+    background-color: orangered;
+    padding: 40px;
+
+}
+.low{
+    color: white !important;
+    background-color: orangered !important;
+}
+.card-body{
+    padding: 0px;
+}
+.mid b{
+    font-size: 25px;
+}
+.mid{
+    color: gray;
+}
+.card{
+    border-color: orangered;
+    padding-bottom: 10px;
+}
+
+

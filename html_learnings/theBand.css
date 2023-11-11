@@ -1,0 +1,79 @@
+.cls-navBar{
+    background-color: black;
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+.cls-navBar a {
+    color: white;
+    text-decoration: none;
+    padding:10px;
+    margin: 18px;
+}
+.cls-navBar select {
+    background: none;
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-family: auto;
+}
+.cls-navBar a:hover {
+    background-color: #b0acac;
+    padding: 19px;
+}
+.cls-image-section img{
+    width: 100%;
+}
+.cls-frontText{
+    position: absolute;
+    color: white;
+    top: 75%;
+    text-align: center;
+    left: 39%;
+}
+
+.cls-frontText h5{
+    font-size: 26px;
+}
+
+.cls-band-section {
+    margin: 83px 276px;
+}
+.cls-heading{
+    font-size: 34px;
+    letter-spacing: 6px;
+    text-align: center;
+    font-family: monospace;
+}
+.cls-subHead{
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+    color: gray;
+    font-style: italic;
+}
+.cls-para{
+    font-size: 16px;
+    text-align: justify;
+    line-height: 24px;
+}
+
+.cls-img-main{
+    margin: 45px;
+}
+.cls-name{
+    display: flex;
+}
+.cls-name div {
+    padding: 0px 95px;
+}
+.cls-image img{
+    width: 25%;
+    margin: 20px 26px;
+    border-radius: 7px;
+}
+.india{
+    color: white;
+    text-align: left;
+}

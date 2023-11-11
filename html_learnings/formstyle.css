@@ -1,0 +1,40 @@
+.one{
+    text-align: center;
+}
+.bi-bootstrap-fill{
+    font-size: 62px;
+    color: #804fd2;
+}
+.one p{
+    font-size: 20px;
+}
+.span two{
+    color: gray;
+}
+.third{
+    color: gray;
+}
+.badge{
+    font-size: .95em;
+    border-radius: 1.25rem;
+}
+.color{
+    color:blue
+}
+.five{
+    color: green !important;
+}
+.six{
+    border: 1px solid gray;
+    padding: 11px;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 90% !important;
+}
+
+* {
+    line-height: 2em;
+}
+.container {
+    max-width: 1020px !important;
+}
